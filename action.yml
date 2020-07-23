@@ -1,0 +1,17 @@
+name: 'Register Workflow'
+description: 'blah'
+inputs:
+  workflow-file:  # id of input
+    description: 'path the workflow'
+    required: true
+  api-user:
+    required: true
+  apk-token:
+    required: true
+    
+outputs:
+  result: # id of output
+    description: ''
+runs:
+  using: 'node12'
+  main: 'register.js'
