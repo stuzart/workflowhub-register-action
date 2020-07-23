@@ -1,0 +1,22 @@
+{
+  "name": "workflowhub-register-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuzart/workflowhub-register-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuzart/workflowhub-register-action/issues"
+  },
+  "homepage": "https://github.com/stuzart/workflowhub-register-action#readme"
+}
